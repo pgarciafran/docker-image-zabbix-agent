@@ -1,6 +1,6 @@
 FROM zabbix/zabbix-agent:ubuntu-3.2.1
 
-MAINTAINER IP.Netcom Galician Team: Anxo Beltrán (anxo.beltran.alvarez@ipnetcom.at), Pedro García (pedro.garcia.franco@ipnetcom.at)
+MAINTAINER Pedro García (pedrogarciafranco@hotmail.com)
 
 # Install dependencies
 RUN apt-get update \
